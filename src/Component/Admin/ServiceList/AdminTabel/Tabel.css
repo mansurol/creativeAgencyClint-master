@@ -1,0 +1,19 @@
+table {
+  font-family: arial, sans-serif;
+  background-color: #fff;
+  margin: 50px;
+  border-radius: 10px;
+}
+
+.custom-select {
+  border: none;
+}
+
+td {
+  text-align: left;
+
+  width: 5%;
+}
+thead {
+  color: #727273;
+}
